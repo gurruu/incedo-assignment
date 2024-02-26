@@ -1,2 +1,2 @@
 Check branches for assignments
-Ignore master and main branch
+Ignore master and main branch.
